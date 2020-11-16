@@ -1,0 +1,26 @@
+* {
+    background-color: palegoldenrod;
+}
+
+.container {
+    margin: auto;
+    align-content: center;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+
+p {
+    font-weight: bold;
+    font-style: oblique 10deg;
+    font-family: monospace;
+    font-size: large;
+}
